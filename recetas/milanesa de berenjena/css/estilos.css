@@ -6,7 +6,7 @@ img{width:1000px ;height:auto;display:block;margin: auto; border-radius:20px}
 .igicono {width:7%; height:14%; position: fixed; top: 60%;right: 2.5%}
 .parrafo {background-color:#A569BD ;text-align:center;font-size:130%;}
 header {background-color:#A569BD;border:5px solid #000000}
-section {float:left;background-color:#A569BD ;font-size:120%;width:49.247%;height:254px;overflow:auto;border:5px solid #000000}
-aside {float:right;background-color:#A569BD ;width:49.247%;height:254px;overflow:auto;border:5px solid #000000}
+section {float:left;background-color:#A569BD ;font-size:120%;width:49.247%;height:254px;overflow:auto;border:2px solid #000000}
+aside {float:right;background-color:#A569BD ;width:49.247%;height:254px;overflow:auto;border:2px solid #000000}
 .contenido {text-decoration:underline;background-color:#D2B4DE;}
 nav {background-color:#A569BD;border:5px solid #000000}
