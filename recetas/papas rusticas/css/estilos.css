@@ -5,7 +5,7 @@ header {background-color:#FFFFFF;border:5px solid #000000}
 .parrafo {background-color:#FFFFFF;text-align:center;font-size:130%;border:5px solid #000000}
 .wppicono {width:10%; height:15%; position: fixed; top: 75%;right: 1%}
 .igicono {width:7%; height:14%; position: fixed; top: 60%;right: 2.5%}
-section {float:left;background-color:#FFFFFF ;font-size:120%;width:49.247%;height:235px;overflow:auto;border:5px solid #000000}
-aside {float:right;background-color:#FFFFFF ;width:49.247%;height:235px;overflow:auto;border:5px solid #000000}
+section {float:left;background-color:#FFFFFF ;font-size:120%;width:49.247%;height:235px;overflow:auto;border:2px solid #000000}
+aside {float:right;background-color:#FFFFFF ;width:49.247%;height:235px;overflow:auto;border:2px solid #000000}
 .contenido {text-decoration:underline;background-color:#B71C1C;text-decoration-color:#FFFFFF;color: white}
 img{width:1000px ;height:auto;display:block;margin: auto; border-radius:20px}
