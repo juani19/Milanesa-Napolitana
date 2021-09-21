@@ -1,0 +1,12 @@
+body {background-color:#FFECB3;}
+#titulo {background-color:#000000;text-align:center; font-family:Garamond;font-size:500%;color:#FFFFFF;}
+.subtitulo {text-align:center; font-family:verdana;}
+.parrafo {background-color:#FF9933;text-align:center;font-size:130%;}
+.wppicono {width:10%; height:15%; position: fixed; top: 75%;right: 1%}
+.igicono {width:7%; height:14%; position: fixed; top: 60%;right: 2.5%}
+header {background-color:#FFA000;border:5px solid #FFFFFF}
+nav {background-color:#FF9933;}
+section {float:left;background-color:#FF8F00 ;font-size:120%;width:50%;height:300px;overflow:auto;}
+aside {float:right;background-color:#FF8F00 ;width:50%;height:300px;overflow:auto;}
+.contenido {text-decoration:underline;background-color:#D84315;}
+img{width:1000px ;height:auto;display:block;margin: auto; border-radius:20px}
