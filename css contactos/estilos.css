@@ -1,0 +1,10 @@
+body {background-color:#FFECB3;}
+header {background-color:#4FC3F7;border:5px solid #FFFFFF}
+.wppicono {width:10%; height:15%; position: fixed; top: 75%;right: 1%}
+.igicono {width:7%; height:14%; position: fixed; top: 60%;right: 2.5%}
+#titulo {background-color:#FFFFFF;text-align:center; font-family:Garamond;font-size:450%;color:#FFEB3B;}
+.subtitulo {text-align:center; font-family:verdana;}
+button:hover {background-color:#4FC3F7 }
+a:hover {color:#4FC3F7 }
+form {background-color:#FF9933;font-size:130%;border:5px solid #000000}
+a::after {color:red;display:inline-block}
