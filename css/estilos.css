@@ -60,5 +60,5 @@ section :hover{background-color:#FFFFFF}
 }
 
 @media (min-width:767px) {
-  iframe{width:28opx;auto}
+  iframe{width:200px;height:150px}
 }
