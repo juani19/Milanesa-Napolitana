@@ -29,7 +29,7 @@ a:after {color:red;display:inline-block}
 aside :hover{background-color:#FFFFFF}
 section :hover{background-color:#FFFFFF}
 .milanesa {display:flex;justify-content: center;}
-.android {width: 600px;display:flex;justify-content: center}
+.android {width: 600px;display:flex;justify-content: center;color:white}
 
 
 
