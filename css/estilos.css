@@ -52,7 +52,7 @@ section :hover{background-color:#FFFFFF}
 }
 
 @media (min-width:990px) {
-  .android{display:none;height:220px;width:auto}
+  .android{display:none;height:100px;width:auto}
 }
 
 @media (min-width:767px) {
