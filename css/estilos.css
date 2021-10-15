@@ -58,3 +58,7 @@ section :hover{background-color:#FFFFFF}
 @media (min-width:767px) {
   h3{display:none}
 }
+
+@media (min-width:767px) {
+  iframe{width:28opx;auto}
+}
