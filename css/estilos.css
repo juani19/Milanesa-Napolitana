@@ -34,17 +34,17 @@ section :hover{background-color:#FFFFFF}
 
 
 
-@media (max-width:980px){
+@media (max-width:991px){
   body{
     background-color: #1B2631;
   }
 }
-@media (max-width:980px) {
+@media (max-width:991px) {
  audio{display:none;}
 
 }
-@media (max-width:1000px){
-.milanesa{width:640px;height:480px;}
+@media (max-width:991px){
+.milanesa{width:570px;height:auto;}
 }
 
 @media (max-width:1000px) {
@@ -55,6 +55,6 @@ section :hover{background-color:#FFFFFF}
   .android{display:none}
 }
 
-@media (min-width:576px) {
+@media (min-width:767px) {
   h3{display:none}
 }
