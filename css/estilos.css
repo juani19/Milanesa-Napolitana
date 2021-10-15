@@ -28,7 +28,7 @@ a:after {color:red;display:inline-block}
 .subtitulo:hover {color:white}
 aside :hover{background-color:#FFFFFF}
 section :hover{background-color:#FFFFFF}
-.milanesa {width:92vh;display:flex;justify-content: center;}
+.milanesa {display:flex;justify-content: center;}
 .android {width: 600px;display:flex;justify-content: center;color:white}
 
 
@@ -44,7 +44,7 @@ section :hover{background-color:#FFFFFF}
 
 }
 @media (max-width:991px){
-.milanesa{width:570px;height:auto;}
+.milanesa{width:200px;height:auto;}
 }
 
 @media (max-width:1000px) {
