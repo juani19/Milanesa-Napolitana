@@ -29,7 +29,7 @@ a:after {color:red;display:inline-block}
 aside :hover{background-color:#FFFFFF}
 section :hover{background-color:#FFFFFF}
 .milanesa {display:flex;justify-content: center;}
-.android {display:flex;justify-content: center;color:white;height:200px;width:auto}
+.android {display:flex;justify-content: center;color:white;height:250px;width:auto}
 
 
 
@@ -48,9 +48,6 @@ section :hover{background-color:#FFFFFF}
 .milanesa{width:200px;height:auto;}
 }
 
-@media (max-width:1000px) {
- .links{width:140px;height:100px}
-}
 
 @media (min-width:1000px) {
   .android{display:none}
@@ -60,10 +57,14 @@ section :hover{background-color:#FFFFFF}
   h3{display:none;font-size}
 }
 
-@media (min-width:990px) {
-  iframe{width:130px;height:auto}
+@media (max-width:1000px) {
+  iframe{width:170px;height:120px}
 }
 
 @media (max-width:990px) {
   #titulo{font-size:30px}
+}
+
+@media (max-width:990px) {
+  .recetas{width:83px}
 }
