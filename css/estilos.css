@@ -22,14 +22,15 @@ aside {float:right;background-color:#FFD54F;width:50%;height:300px;overflow:auto
 .igicono {width:10vh; position: fixed; top: 60%;right: 2.5%}
 .recetas {width:23.7vw;height:auto;}
 a:hover {color:#4FC3F7;color:purple;}
-.subtitulo2 {text-align:center; font-family:"affirmative";font-size:3em}
+.subtitulo2 {text-align:center; font-family:"affirmative";font-size:30px}
 .subtitulo2:hover{color:#4FC3F7}
 a:after {color:red;display:inline-block}
 .subtitulo:hover {color:white}
 aside :hover{background-color:#FFFFFF}
 section :hover{background-color:#FFFFFF}
 .milanesa {display:flex;justify-content: center;}
-.android {width: 600px;display:flex;justify-content: center;color:white}
+.android {display:flex;justify-content: center;color:white;height:200px;width:auto}
+
 
 
 
@@ -44,21 +45,25 @@ section :hover{background-color:#FFFFFF}
 
 }
 @media (max-width:991px){
-.milanesa{width:350px;height:auto;}
+.milanesa{width:200px;height:auto;}
 }
 
 @media (max-width:1000px) {
- .links{width:475px;height:350px}
+ .links{width:140px;height:100px}
+}
+
+@media (min-width:1000px) {
+  .android{display:none}
+}
+
+@media (min-width:1000px) {
+  h3{display:none;font-size}
 }
 
 @media (min-width:990px) {
-  .android{display:none;height:100px;width:auto}
+  iframe{width:130px;height:auto}
 }
 
-@media (min-width:767px) {
-  h3{display:none}
-}
-
-@media (min-width:990px) {
-  iframe{width:100px;height:50px}
+@media (max-width:990px) {
+  #titulo{font-size:30px}
 }
