@@ -1,5 +1,6 @@
 
 
+
 @font-face {font-family: "affirmative";
 src: url("../fuentes/affirmative.ttf")
 format("truetype");}
@@ -54,11 +55,11 @@ section :hover{background-color:#FFFFFF}
 }
 
 @media (min-width:1000px) {
-  h3{display:none;font-size}
+  h3{display:none}
 }
 
 @media (max-width:1000px) {
-  iframe{width:344px;height:160px}
+  iframe{width:330px;height:160px;display:flex;margin:auto}
 }
 
 @media (max-width:990px) {
@@ -67,6 +68,10 @@ section :hover{background-color:#FFFFFF}
 
 @media (max-width:990px) {
   .recetas{width:81.5px}
+}
+
+@media (max-width:1000px) {
+  .subtitulo2{color:white;}
 }
 
 
