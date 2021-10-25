@@ -1,16 +1,13 @@
-
-
-
 @font-face {font-family: "affirmative";
 src: url("../fuentes/affirmative.ttf")
 format("truetype");}
 body {background-color:#FFECB3;}
-#titulo {background-color:#FFFFFF;text-align:center; font-family: 'Gluten', cursive;font-size:4rem;color:#FFEB3B;}
+.titulo {background-color:#FFFFFF;text-align:center; font-family: 'Gluten', cursive;font-size:4rem;color:#FFEB3B;}
 .subtitulo {text-align:center; font-family:verdana;}
 .parrafo {background-color:#FF9933;text-align:center;font-size:1.4rem; }
-.contenido {text-decoration:underline;background-color:#D84315;}
+.contenido {text-decoration:underline;background-color:#D84315;font-size:1.8rem}
 img{width:98vw ;height:auto;margin: auto; border-radius:3vh;}
-iframe {width:48.5vw;height:70vh}
+iframe {width:49.2vw;height:70vh;}
 @import url('https://fonts.googleapis.com/css2?family=Gluten:wght@600&display=swap');
 
 
@@ -63,7 +60,7 @@ section :hover{background-color:#FFFFFF}
 }
 
 @media (max-width:990px) {
-  #titulo{font-size:30px}
+  .titulo{font-size:30px}
 }
 
 @media (max-width:990px) {
@@ -73,5 +70,3 @@ section :hover{background-color:#FFFFFF}
 @media (max-width:1000px) {
   .subtitulo2{color:white;}
 }
-
-
