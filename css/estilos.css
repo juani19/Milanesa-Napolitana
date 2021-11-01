@@ -1,0 +1,73 @@
+@font-face {font-family: "affirmative";
+src: url("../fuentes/affirmative.ttf")
+format("truetype");}
+body {background-color:#FFECB3;}
+.titulo {background-color:#FFFFFF;text-align:center; font-family: 'Gluten', cursive;font-size:4rem;color:#FFEB3B;}
+.subtitulo {text-align:center; font-family:verdana;}
+.parrafo {background-color:#FF9933;text-align:center;font-size:1.4rem; }
+.contenido {text-decoration:underline;background-color:#D84315;font-size:1.8rem}
+img{width:98vw ;height:auto;margin: auto; border-radius:3vh;}
+iframe {width:49.2vw;height:70vh;}
+@import url('https://fonts.googleapis.com/css2?family=Gluten:wght@600&display=swap');
+
+
+header {background-color:#4FC3F7;border:5px solid #FFFFFF}
+nav {background-color:#FF9933;}
+section {float:left;background-color:#ffa00099;font-size:1.2em;width:50%;height:300px;overflow:auto;}
+aside {float:right;background-color:#ffa00099;width:50%;height:300px;overflow:auto;}
+.contenido:hover {color: #4FC3F7}
+.wppicono {width:15vh; position: fixed; top: 73.5%;right: 1%}
+.igicono {width:10vh; position: fixed; top: 60%;right: 2.5%}
+.signo {width:10vh; position: fixed; top: 88%;right: 2.5%}
+.recetas {width:23.7vw;height:auto;}
+a:hover {color:#4FC3F7;color:purple;}
+.subtitulo2 {text-align:center; font-family:"affirmative";font-size:30px}
+.subtitulo2:hover{color:#4FC3F7}
+a:after {color:red;display:inline-block}
+.subtitulo:hover {color:white}
+aside :hover{background-color:#FFFFFF}
+section :hover{background-color:#FFFFFF}
+.milanesa {display:flex;justify-content: center;}
+.android {display:flex;justify-content: center;color:white;height:250px;width:auto}
+
+
+
+
+
+@media (max-width:991px){
+  body{
+    background-color: #1B2631;
+  }
+}
+@media (max-width:991px) {
+ audio{display:none;}
+
+}
+@media (max-width:991px){
+.milanesa{width:280px;height:auto;}
+}
+
+
+@media (min-width:1000px) {
+  .android{display:none}
+}
+
+@media (min-width:1000px) {
+  h3{display:none}
+}
+
+@media (max-width:1000px) {
+  iframe{width:330px;height:160px;display:flex;margin:auto}
+}
+
+@media (max-width:990px) {
+  .titulo{font-size:30px}
+}
+
+@media (max-width:990px) {
+  .recetas{width:81.5px}
+}
+
+@media (max-width:1000px) {
+  .subtitulo2{color:white;}
+}
